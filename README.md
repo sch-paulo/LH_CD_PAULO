@@ -22,18 +22,18 @@ O dataset disponibilizado possui 16 colunas, sendo 11 numéricas e 5 categórica
 * **disponibilidade_365** - Contém o número de dias em que o anúncio está disponível para reserva
 
 
-## Descrição do Projeto
+## Descrição do projeto
 O projeto consiste nas seguintes etapas:
 
 ### Importação, análise e tratamentos iniciais
 Importação do dataset e bibliotecas necessárias, análise inicial da composição do dataset e tratamentos básicos de incongruências encontradas.
 
-### Análise Exploratória dos Dados
+### Análise exploratória dos dados
 Investigação as características mais relevantes, buscar insights e apresentar hipóteses para solucionar nossos problemas de negócio.
 
-### Resposta às Perguntas-chave
+### Resposta às perguntas de negócio propostas
 
-1. Onde seria mais indicada a compra de um apartamento para aluguel na plataforma?
+1. Supondo que uma pessoa esteja pensando em investir em um apartamento para alugar na plataforma, onde seria mais indicada a compra?
 2. O número mínimo de noites e a disponibilidade ao longo do ano interferem no preço?
 3. Existe algum padrão no texto do nome do local para lugares de mais alto valor?
    
@@ -55,7 +55,7 @@ Desenvolver um modelo de previsão de preços utilizando as variáveis disponív
 * Arquivo de requisitos ``requirements.txt`` com os pacotes utilizados e suas versões.
 * Respostas às Perguntas-chave
 
-## Instalação e Execução do Projeto
+## Instalação e execução do Projeto
 Para executar o projeto, siga as instruções abaixo:
 
 * Clone o repositório do projeto: ``git clone https://github.com/sch-paulo/LH_CD_PAULO.git``;
